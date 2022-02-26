@@ -1,5 +1,5 @@
 <div align="center" >
-<img  src="https://github.com/RockstArjun/RockstArjun/blob/main/assests/ra-removebg-preview.png"> 
+<img src="https://github.com/RockstArjun/RockstArjun/blob/main/assests/ra-removebg-preview.png"> 
 </div>
 
 ### Hello Dev <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="20" height="20" /> , I’m Arjun Chauhan
@@ -13,7 +13,7 @@ I’m looking to collaborate on Projects or Task.
 How to reach me ! Just Dm Me oN INstagram @python.programe oR Email mE On chauhanarjun064@gmail.com
 Also check my portfolio https://arjunchauhan.netlify.app/
 
-### 🚀 My creative skills
+### 🚀 My Creative Skills
 <li>Designing and Developing user interactions on web pages.</li>
 <li>Developing back-end website applications.</li>
 <li>Creating servers and databases for functionality.</li>
@@ -21,7 +21,7 @@ Also check my portfolio https://arjunchauhan.netlify.app/
 <li> Ensuring responsiveness of applications and web pages.</li>
 <li>Working alongside as graphic designers for web design features.</li>
 
-### 🛠 Technical languages and tools
+### 🛠 Technical Languages and Tools
 ![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
@@ -38,6 +38,16 @@ Also check my portfolio https://arjunchauhan.netlify.app/
 ### 🧠 Tech Stack
 **Client:** Vanilla Html Css Js, React Js <br>
 **Server:** Node, Express, Django
+
+### ✍ My Contributions
+![](https://activity-graph.herokuapp.com/graph?username=rockstarjun&theme=react-dark)
+
+### 📝 Stats Overview
+<div align="center">
+<img   src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rockstarjun&layout=compact&theme=radical"  /><br>
+<img width='450'  src="https://github-readme-streak-stats.herokuapp.com/?user=rockstarjun&theme=tokyonight" /><br>
+<img   src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rockstarjun&show_icons=true&include_all_commits=true&theme=radical" /><br>
+</div>
 
 ### 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://arjunchauhan.netlify.app/)

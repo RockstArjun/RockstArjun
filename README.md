@@ -51,7 +51,7 @@ Also check my portfolio https://arjunchauhan.netlify.app/
 
 ### 🔗 Links
 <div align="left" >
-<img src="https://github.com/RockstArjun/RockstArjun/blob/main/assests/he.png"> 
+<img style="margin-left:110px" src="https://github.com/RockstArjun/RockstArjun/blob/main/assests/he.png"> 
 </div>
 
 <div align="center">

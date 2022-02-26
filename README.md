@@ -1,5 +1,12 @@
-### Hello Dev <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="20" height="20" /> , I’m Arjun Chauhan (@RockstArjun)
+<div align="center" >
+<img  src="https://github.com/RockstArjun/RockstArjun/blob/main/assests/ra-removebg-preview.png"> 
+</div>
 
+### Hello Dev <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="20" height="20" /> , I’m Arjun Chauhan
+
+<p>
+  <img width="310" height="300" align='right' src="https://github.com/RockstArjun/RockstArjun/blob/main/assests/yo-removebg-preview.png"> 
+</p>
 I’m a Fullstack Developer | Python Developer | Freelancer.
 I’m currently pursuing my graduation in B-Tech CSE (2021-2025).
 I’m looking to collaborate on Projects or Task.

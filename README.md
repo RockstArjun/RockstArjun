@@ -50,8 +50,8 @@ Also check my portfolio https://arjunchauhan.netlify.app/
 </div>
 
 ### 🔗 Links
-<div align="left" >
-<img style="margin-left:110px" src="https://github.com/RockstArjun/RockstArjun/blob/main/assests/he.png"> 
+<div align="center" >
+<img src="https://github.com/RockstArjun/RockstArjun/blob/main/assests/he.png"> 
 </div>
 
 <div align="center">

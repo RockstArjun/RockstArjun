@@ -1,5 +1,5 @@
 <div align="center" >
-<img src="https://github.com/RockstArjun/RockstArjun/blob/main/assests/ra-removebg-preview.png"> 
+<img width="30%" src="https://github.com/RockstArjun/RockstArjun/blob/main/assests/ra.png"> 
 </div>
 
 ### Hello Dev <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="20" height="20" /> , I’m Arjun Chauhan

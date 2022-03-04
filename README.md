@@ -44,9 +44,9 @@ Also check my portfolio https://arjunchauhan.netlify.app/
 
 ### 📝 Stats Overview
 <div align="center">
-<img   src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rockstarjun&layout=compact&theme=radical"  /><br>
+<img   src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rockstarjun&layout=compact&theme=radical"  /><br>
 <img width='450'  src="https://github-readme-streak-stats.herokuapp.com/?user=rockstarjun&theme=tokyonight" /><br>
-<img   src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rockstarjun&show_icons=true&include_all_commits=true&theme=radical" /><br>
+<img   src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=rockstarjun&show_icons=true&include_all_commits=false&theme=radical" /><br>
 </div>
 
 ### 🔗 Links

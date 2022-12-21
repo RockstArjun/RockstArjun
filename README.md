@@ -14,12 +14,23 @@ How to reach me ! Just Dm Me oN INstagram @python.programe oR Email mE On chauha
 Also check my portfolio https://arjunchauhan.netlify.app/
 
 ### 🚀 My Creative Skills
-<li>Designing and Developing user interactions on web pages.</li>
-<li>Developing back-end website applications.</li>
-<li>Creating servers and databases for functionality.</li>
-<li> Ensuring cross-platform optimization for mobile phones anddesktop.</li>
-<li> Ensuring responsiveness of applications and web pages.</li>
-<li>Working alongside as graphic designers for web design features.</li>
+<li>A coder who turns coffee into code and an open source
+contributor. Over 4.2 years of experience, which
+includes 4 years of experience in Full Stack
+Development, 3.5 years of experience in React Js and 2
+year of experience in UI Designing</li>
+<li>Expertise in analyzing the Document Object Model
+(DOM) Layout, DOM Functions, and Javascript
+functions, Cascading Styles across cross-browser
+using Firebug, Developer ToolBar</li>
+<li>Good Experience in ReactJS for creating interactive UI
+using One-way data flow, Virtual DOM, JSX concepts</li>
+<li> Experience in Node environment using Node.js, NPM
+and express. Also in RESTful to integrate between
+Application to Application Experience with front-end
+development with back-end system integration</li>
+<li>Experience in Version Control tools like GIT
+management</li>
 
 ### 🛠 Technical Languages and Tools
 ![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=white)

@@ -5,6 +5,7 @@
 ![TYPEScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-0A66C2?style=for-the-badge&logo=python&logoColor=white)
 ![CPP](https://img.shields.io/badge/cpp-navyblue?style=for-the-badge&logo=cpp&logoColor=white)
+![CPP](https://img.shields.io/badge/c-purple?style=for-the-badge&logo=c&logoColor=white)
 
 
 ### 🖥 Tech Stack

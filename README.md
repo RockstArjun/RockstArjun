@@ -1,8 +1,7 @@
 ### Hello Dev, I’m Arjun Chauhan
 
 ### 🛠 Technical Languages and Tools
-![JAM](https://img.shields.io/badge/-JAM-000?style=for-the-badge&logo=jamstack&logoColor=white)
-![MERN](https://img.shields.io/badge/-MERN-000?style=for-the-badge&logo=Node.js&logoColor=white)
+![MERN](https://img.shields.io/badge/-MERN-brown?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,22 +17,23 @@
 ![VSCODE](https://img.shields.io/badge/VSCode-0A66C2?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![SPLUNK](https://img.shields.io/badge/splunk-orange?style=for-the-badge&logo=splunk&logoColor=white)
 ![JENKINS](https://img.shields.io/badge/jenkins-white?style=for-the-badge&logo=jenkins&logoColor=black)
-![Astro](https://img.shields.io/badge/-astro-000?style=for-the-badge&logo=astro&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=Linux&logoColor=white)
-![bash](https://img.shields.io/badge/-bash-000?style=for-the-badge&logo=gnubash&logoColor=white)
-![nginx](https://img.shields.io/badge/-nginx-000?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
-![postman](https://img.shields.io/badge/-postman-000?style=for-the-badge&logo=postman&logoColor=white)
-![figma](https://img.shields.io/badge/-figma-000?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Astro](https://img.shields.io/badge/-astro-purple?style=for-the-badge&logo=astro&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-yellow?style=for-the-badge&logo=Linux&logoColor=white)
+![bash](https://img.shields.io/badge/-bash-fff?style=for-the-badge&logo=gnubash&logoColor=white)
+![nginx](https://img.shields.io/badge/-nginx-green?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=Docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-grey?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
+![postman](https://img.shields.io/badge/-postman-orange?style=for-the-badge&logo=postman&logoColor=white)
+![figma](https://img.shields.io/badge/-figma-wine?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ### 🧠 Tech Stack
 **Client:** Vanilla Html Css Js, React Js <br>
 **Server:** Node, Express, Django
 
 ### ✍ My Contributions
-![](https://activity-graph.herokuapp.com/graph?username=RockstArjun&theme=react-dark)
+![ishre-yash GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rockstarjun&hide_border=true&theme=react-dark)
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
 
 ### 📝 Stats Overview
 <div align="center">

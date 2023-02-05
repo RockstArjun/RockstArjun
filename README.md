@@ -1,4 +1,4 @@
-![](https://github.com/RockstArjun/RockstArjun/blob/main/cover.png)
+![](https://github.com/RockstArjun/RockstArjun/blob/main/cover-min.png)
  
 ### Hello Dev, I’m Arjun Chauhan
 

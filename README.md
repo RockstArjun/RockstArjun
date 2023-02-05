@@ -1,4 +1,4 @@
-### Hello Dev <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="20" height="20" /> , I’m Arjun Chauhan
+### Hello Dev, I’m Arjun Chauhan
 
 ### 🛠 Technical Languages and Tools
 ![JAM](https://img.shields.io/badge/-JAM-000?&logo=jamstack)

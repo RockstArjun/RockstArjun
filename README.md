@@ -1,17 +1,22 @@
 ### Hello Dev, I’m Arjun Chauhan
 
-### 🛠 Technical Languages and Tools
+### 🛠 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![TYPEScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-0A66C2?style=for-the-badge&logo=python&logoColor=white)
+![CPP](https://img.shields.io/badge/cpp-navyblue?style=for-the-badge&logo=cpp&logoColor=white)
+
+
+### 🖥 Tech Stack
 ![MERN](https://img.shields.io/badge/-MERN-brown?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![REACT](https://img.shields.io/badge/react_js-grey?style=for-the-badge&logo=react)
 ![NODEJS](https://img.shields.io/badge/express_js-FFFF00?style=for-the-badge&logo=express&logoColor=black)
-![DJANGO](https://img.shields.io/badge/mongodb-228B22?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/python-0A66C2?style=for-the-badge&logo=python&logoColor=white)
+![MONGODB](https://img.shields.io/badge/mongodb-228B22?style=for-the-badge&logo=mongodb&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/django-006400?style=for-the-badge&logo=django&logoColor=white)
-![DJANGO](https://img.shields.io/badge/mysql-00718b?style=for-the-badge&logo=mysql&logoColor=white)
+![MYSQL](https://img.shields.io/badge/mysql-00718b?style=for-the-badge&logo=mysql&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/VSCode-0A66C2?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -19,17 +24,25 @@
 ![JENKINS](https://img.shields.io/badge/jenkins-white?style=for-the-badge&logo=jenkins&logoColor=black)
 ![Astro](https://img.shields.io/badge/-astro-purple?style=for-the-badge&logo=astro&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-yellow?style=for-the-badge&logo=Linux&logoColor=white)
-![bash](https://img.shields.io/badge/-bash-fff?style=for-the-badge&logo=gnubash&logoColor=white)
+![bash](https://img.shields.io/badge/-bash-fff?style=for-the-badge&logo=gnubash&logoColor=black)
 ![nginx](https://img.shields.io/badge/-nginx-green?style=for-the-badge&logo=nginx&logoColor=white)
+
+
+### 🔰 Tools
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=Docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-grey?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
 ![postman](https://img.shields.io/badge/-postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 ![figma](https://img.shields.io/badge/-figma-wine?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-### 🧠 Tech Stack
-**Client:** Vanilla Html Css Js, React Js <br>
-**Server:** Node, Express, Django
+![Linux](https://img.shields.io/badge/-Linux-yellow?style=for-the-badge&logo=Linux&logoColor=white)
+![bash](https://img.shields.io/badge/-bash-fff?style=for-the-badge&logo=gnubash&logoColor=black)
+![nginx](https://img.shields.io/badge/-nginx-green?style=for-the-badge&logo=nginx&logoColor=white)
+![GIT](https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
+![VSCODE](https://img.shields.io/badge/VSCode-0A66C2?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![SPLUNK](https://img.shields.io/badge/splunk-orange?style=for-the-badge&logo=splunk&logoColor=white)
+![JENKINS](https://img.shields.io/badge/jenkins-white?style=for-the-badge&logo=jenkins&logoColor=black)
+![Astro](https://img.shields.io/badge/-astro-purple?style=for-the-badge&logo=astro&logoColor=white)
 
 ### ✍ My Contributions
 ![ishre-yash GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rockstarjun&hide_border=true&theme=react-dark)

@@ -5,7 +5,7 @@
 ### Hello Dev, I’m Arjun Chauhan
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rockstarjun&label=Profile%20views&color=0e75b6&style=flat" alt="rockstarjun" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rockstarjun&label=Profile%20000000000views&color=0e75b6&style=flat" alt="rockstarjun" /> </p>
 
 
 ### 🛠 Programming Languages

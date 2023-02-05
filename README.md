@@ -1,6 +1,7 @@
 <div align="center">
  <img src="https://github.com/RockstArjun/RockstArjun/blob/main/cover.PNG.png" alt="cover" >
- </div>
+</div>
+ 
 ### Hello Dev, I’m Arjun Chauhan
 
 ### 🛠 Programming Languages

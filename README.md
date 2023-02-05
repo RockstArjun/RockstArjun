@@ -1,6 +1,4 @@
-<div align="center">
- <img src="https://github.com/RockstArjun/RockstArjun/blob/main/cover.PNG.png" alt="cover" >
-</div>
+![](https://github.com/RockstArjun/RockstArjun/blob/main/cover.png)
  
 ### Hello Dev, I’m Arjun Chauhan
 

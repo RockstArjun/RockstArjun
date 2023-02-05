@@ -1,9 +1,9 @@
 ### Hello Dev, I’m Arjun Chauhan
 
 ### 🛠 Technical Languages and Tools
-![JAM](https://img.shields.io/badge/-JAM-000?&logo=jamstack)
-![MERN](https://img.shields.io/badge/-MERN-000?&logo=Node.js)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
+![JAM](https://img.shields.io/badge/-JAM-000?style=for-the-badge&logo=jamstack&logoColor=white)
+![MERN](https://img.shields.io/badge/-MERN-000?style=for-the-badge&logo=Node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
@@ -18,22 +18,22 @@
 ![VSCODE](https://img.shields.io/badge/VSCode-0A66C2?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![SPLUNK](https://img.shields.io/badge/splunk-orange?style=for-the-badge&logo=splunk&logoColor=white)
 ![JENKINS](https://img.shields.io/badge/jenkins-white?style=for-the-badge&logo=jenkins&logoColor=black)
-![Astro](https://img.shields.io/badge/-astro-000?&logo=astro)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![bash](https://img.shields.io/badge/-bash-000?&logo=gnubash)
-![nginx](https://img.shields.io/badge/-nginx-000?&logo=nginx)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
-![postman](https://img.shields.io/badge/-postman-000?&logo=postman)
-![figma](https://img.shields.io/badge/-figma-000?&logo=figma)
-![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobephotoshop)
+![Astro](https://img.shields.io/badge/-astro-000?style=for-the-badge&logo=astro&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=Linux&logoColor=white)
+![bash](https://img.shields.io/badge/-bash-000?style=for-the-badge&logo=gnubash&logoColor=white)
+![nginx](https://img.shields.io/badge/-nginx-000?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
+![postman](https://img.shields.io/badge/-postman-000?style=for-the-badge&logo=postman&logoColor=white)
+![figma](https://img.shields.io/badge/-figma-000?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ### 🧠 Tech Stack
 **Client:** Vanilla Html Css Js, React Js <br>
 **Server:** Node, Express, Django
 
 ### ✍ My Contributions
-![Rockstarjun](https://activity-graph.herokuapp.com/graph?username=rockstarjun&theme=react-dark)
+![](https://activity-graph.herokuapp.com/graph?username=RockstArjun&theme=react-dark)
 
 ### 📝 Stats Overview
 <div align="center">
@@ -52,9 +52,6 @@
 
 
 ### 🔗 Links
-<div align="center" >
-<img src="https://github.com/RockstArjun/RockstArjun/blob/main/assests/he.png"> 
-</div>
 
 
 <div align="center">

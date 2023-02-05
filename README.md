@@ -45,8 +45,7 @@
 ![Astro](https://img.shields.io/badge/-astro-purple?style=for-the-badge&logo=astro&logoColor=white)
 
 ### ✍ My Contributions
-![ishre-yash GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rockstarjun&hide_border=true&theme=react-dark)
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
+![rockstarjun](https://github-readme-activity-graph.cyclic.app/graph?username=rockstarjun&hide_border=true&theme=react-dark)
 
 ### 📝 Stats Overview
 <div align="center">
@@ -71,6 +70,6 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://arjunchauhan.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-chauhan-20b9aa217)
-[![instagram](https://img.shields.io/badge/instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/python.programe)
+[![instagram](https://img.shields.io/badge/instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lifemainerror404)
 
 </div>

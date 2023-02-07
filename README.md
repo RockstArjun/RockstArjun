@@ -69,7 +69,8 @@
     </p>
 </p>
 
-
+### 🏆 My GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rockstarjun&title=Followers,Stars,Commit&theme=juicyfresh)
 ### 🔗 Connect with me
 
 

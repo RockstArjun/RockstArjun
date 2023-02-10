@@ -1,6 +1,6 @@
 ![](https://github.com/RockstArjun/RockstArjun/blob/main/cover-min.png)
  
-### Hello Dev, I’m Arjun Chauhan
+### Hello Dev✌, I’m Arjun Chauhan
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rockstarjun&label=Profile%20views&color=0e75b6&style=flat" alt="rockstarjun" /> </p>
